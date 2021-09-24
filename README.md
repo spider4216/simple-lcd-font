@@ -10,4 +10,4 @@ Example
 
 ![SimleLCDFont](https://raw.githubusercontent.com/spider4216/resources/master/g8776.png)
 
-SimpleLcd.sfd is a font source which you can use for export fonts in defferent extensions. FontForge utility can help you open sfd file, edit and export it.
+SimpleLcd.sfd is a font source which you can use for export fonts in different extensions. FontForge utility can help you open sfd file, edit and export it.
